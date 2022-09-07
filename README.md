@@ -2,7 +2,7 @@ Hi there 👋
 It's me Akhilesh from Nepal. I love to discover new things. That's why I am here on github to explore the world of code.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZFiBmGVClrgxt02N9X/giphy.gif" width="300" height="300"/>
+  <img src="https://github.com/akhilesh-kafle/akhilesh-kafle/blob/main/akh.png" width="300" height="400"/>
   <div id="stuff">
   <a href="https://www.linkedin.com/in/akhilesh-kafle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
